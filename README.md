@@ -27,8 +27,3 @@ Este repositório contém um projeto de análise de dados focado em partidas do 
 - Frequência de eventos como planta/desarme da bomba
 - Mapas mais jogados (se incluído no dataset)
 
-## 🚀 Como executar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
